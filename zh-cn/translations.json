@@ -1039,7 +1039,7 @@
         "css": {
             "customCSS": "自定义 CSS",
             "customCSSSaveSuccessMsg": "自定义 CSS 已成功保存。",
-            "normal": "普通",
+            "normal": "默认值",
             "putCustomCSSAMPComment": "将您的自定义 CSS 代码放在这里（它将仅在 AMP 模式下使用）",
             "putCustomCSSComment": "将您的自定义 CSS 代码放在这里"
         },
