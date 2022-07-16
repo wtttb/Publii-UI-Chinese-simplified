@@ -1,3 +1,11 @@
+# 停更通知
+
+一些原因，可能不再更新（仓库不会删除）。如果需要最新的版本翻译，可以到以下地址获取：
+
+官方仓库：https://github.com/GetPublii/Publii-ui-locales
+
+dyxang仓库：https://github.com/dyxang/Publii-Chinese-localization
+
 # Publii UI Chinese simplified
  Chinese Simplified language translation of Publii app UI
 
@@ -9,4 +17,4 @@
 
 # update
 
-TIME ：2022/7/14
+TIME ：2022/7/16
